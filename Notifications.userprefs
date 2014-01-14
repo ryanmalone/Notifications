@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.Ryan Malone’s iPhone - 270811" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Components/raygun4net-1.1.3/samples/Raygun.iOS.Sample/Raygun.iOS.Sample/MyViewController.cs">
+    <Files>
+      <File FileName="AppDelegate.cs" Line="91" Column="56" />
+      <File FileName="Application.cs" Line="17" Column="1" />
+      <File FileName="Components/raygun4net-1.1.3/samples/Raygun.iOS.Sample/Raygun.iOS.Sample/Main.cs" Line="23" Column="2" />
+      <File FileName="Components/raygun4net-1.1.3/samples/Raygun.iOS.Sample/Raygun.iOS.Sample/MyViewController.cs" Line="49" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Notifications" expanded="True">
+            <Node name="ComponentReferenceFolder" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/blondgorilla/Projects/Notifications/AppDelegate.cs" line="93" column="1" />
+      <Breakpoint file="/Users/blondgorilla/Projects/Notifications/AppDelegate.cs" line="91" column="1" />
+      <Breakpoint file="/Users/blondgorilla/Projects/Notifications/AppDelegate.cs" line="61" column="1" />
+      <Breakpoint file="/Users/blondgorilla/Projects/Notifications/AppDelegate.cs" line="64" column="1" />
+      <Breakpoint file="/Users/blondgorilla/Projects/Notifications/AppDelegate.cs" line="103" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Notifications>
+    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="F5NJ2NXLKW" TeamId="DFW9WQ76V9" />
+  </MonoDevelop.Ide.ItemProperties.Notifications>
+</Properties>
